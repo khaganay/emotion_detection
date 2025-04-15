@@ -13,7 +13,9 @@
                 "-lopencv_core",
                 "-lopencv_imgcodecs",
                 "-lopencv_highgui",
-                "-lopencv_videoio"
+                "-lopencv_videoio",
+                "-lopencv_objdetect",
+                "-lopencv_dnn"
             ],
             "group": {
                 "kind": "build",
